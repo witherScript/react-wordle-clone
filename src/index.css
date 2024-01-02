@@ -1,0 +1,28 @@
+.navbar-wrapper {
+  background-color:  rgb(236, 232, 232);
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navItem {
+  padding: 10px;
+  margin: 10px 5px;
+  color: seagreen;
+  border-radius: 50px;
+  font-size:30px;
+  text-align: center;
+}
+
+.word-form{
+  margin-top: 100px;
+  margin-left: 450px;
+}
+
+#words > input {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  font-size: 60px;
+}
